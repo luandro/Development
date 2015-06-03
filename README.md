@@ -4,8 +4,8 @@
 - [About](#about)
 - [Chapters](#chapters)
 	- [Donsol, Phillipines](#donsol-philippines)
-	- [Buscalan, Phillipines](#buscalan)
-	- [Moinho, Brazil](#moinho)
+	- [Buscalan, Phillipines](#buscalan-philippines)
+	- [Moinho, Brazil](#moinho-brazil)
 - [License](#license)
 
 
@@ -42,3 +42,9 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore perferendis iur
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium natus esse labore consequuntur distinctio ducimus est quam consequatur accusantium, minima architecto saepe quidem impedit cumque quas blanditiis assumenda illo quibusdam!Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus a dolor, enim illo vel porro animi. Rerum iusto dolores at totam velit porro? Sunt blanditiis hic est voluptatem quod ullam.
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nemo eligendi dolorum et. Necessitatibus dolorem accusamus veritatis delectus repellat, cupiditate architecto atque facilis nesciunt ut. Iste eveniet, maxime cum pariatur deleniti.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat, praesentium quibusdam! Quibusdam, nobis! Voluptatibus, quam autem vel sequi officia impedit, modi consequuntur soluta reprehenderit similique omnis eius quod sed consectetur?
+
+#License
+
+![Development is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.](https://licensebuttons.net/l/by-nc/4.0/88x31.png)
+
+_***Development***_ is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.
