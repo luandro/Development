@@ -1,4 +1,4 @@
-![Development Banner](assets/development_git_logo.png)
+![Development Logo](assets/development_git_logo.jpg)
 
 ##Index
 - [About](#about)
