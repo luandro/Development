@@ -1,4 +1,4 @@
-![Development Banner](https://github.com/luandro/Development/blob/master/assets/development_banner.png)
+<img src="assets/development_banner.png" align="center" />
 
 ##Index
 * [About](#About)
