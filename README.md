@@ -13,7 +13,7 @@
 
 #About
 
-This project was born from a growing desbelief in the political and economic structure of contemporary civilized societies. Readings from economic anthropologists [Manfred Max-Neef](http://en.wikipedia.org/wiki/Manfred_Max_Neef) and [David Graeber](http://en.wikipedia.org/wiki/David_Graeber) led me to believe that alternatives that have sustained for a much longer period of time than our own still exist in rural areas around the globe.
+This project was born from a growing desbelief in the political and economic structure of contemporary civilized societies. Ideas from economic anthropologists [Manfred Max-Neef](http://en.wikipedia.org/wiki/Manfred_Max_Neef) and [David Graeber](http://en.wikipedia.org/wiki/David_Graeber) led me to believe that alternatives that have sustained for a much longer period of time than our own still exist in rural areas around the globe.
 
 #Methodology
 
