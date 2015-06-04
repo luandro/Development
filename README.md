@@ -2,6 +2,7 @@
 
 ##Index
 - [About](#about)
+- [Methodology](#methodology)
 - [Chapters](#chapters)
 	- [Donsol, Phillipines](#donsol-philippines)
 	- [Buscalan, Phillipines](#buscalan-philippines)
@@ -12,13 +13,18 @@
 
 #About
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit ea, velit labore quae, blanditiis tenetur autem voluptate facilis. Quod ab, ut eius commodi illum totam ratione, eum magni nobis mollitia?
+This project was born from a growing desbelief in the political and economic structure of contemporary civilized societies. Readings from economic anthropologists [Manfred Max-Neef](http://en.wikipedia.org/wiki/Manfred_Max_Neef) and [David Graeber](http://en.wikipedia.org/wiki/David_Graeber) led me to believe that alternatives that have sustained for a much longer period of time than our own still exist in rural areas around the globe.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis pariatur aperiam, ex non quae minus veritatis autem cum necessitatibus, qui quas ad, sit impedit velit cupiditate iusto perferendis magnam nesciunt.
+#Methodology
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus aut quae accusantium vel eius earum, quibusdam enim vero quis totam ad veniam laborum corporis tenetur error atque commodi cupiditate alias?Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat itaque, facere, nulla velit asperiores voluptas quibusdam voluptates architecto vitae, cumque, laborum omnis aut. Ducimus et nostrum laudantium natus minus earum.
 
 #Chapters
 
 ###Donsol, Philippines
+
+> December 2012 - February 2013
+
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore perferendis iure molestiae quisquam repellendus architecto, minus doloremque, quaerat aliquam, delectus eius officiis sunt nulla saepe pariatur! Adipisci similique, aliquam officia.
 
 ![Donsol](assets/development_banner.jpg)
@@ -28,6 +34,11 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium natus esse 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nemo eligendi dolorum et. Necessitatibus dolorem accusamus veritatis delectus repellat, cupiditate architecto atque facilis nesciunt ut. Iste eveniet, maxime cum pariatur deleniti.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat, praesentium quibusdam! Quibusdam, nobis! Voluptatibus, quam autem vel sequi officia impedit, modi consequuntur soluta reprehenderit similique omnis eius quod sed consectetur?
 
 ###Buscalan, Philippines
+
+> February 2013 - March 2013
+>
+> June 2013 - July 2013
+
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore perferendis iure molestiae quisquam repellendus architecto, minus doloremque, quaerat aliquam, delectus eius officiis sunt nulla saepe pariatur! Adipisci similique, aliquam officia.
 
 ![Donsol](assets/development_banner.jpg)
@@ -36,6 +47,9 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium natus esse 
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nemo eligendi dolorum et. Necessitatibus dolorem accusamus veritatis delectus repellat, cupiditate architecto atque facilis nesciunt ut. Iste eveniet, maxime cum pariatur deleniti.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat, praesentium quibusdam! Quibusdam, nobis! Voluptatibus, quam autem vel sequi officia impedit, modi consequuntur soluta reprehenderit similique omnis eius quod sed consectetur?
 ###Moinho, Brazil
+
+> February 2014 - Present
+
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore perferendis iure molestiae quisquam repellendus architecto, minus doloremque, quaerat aliquam, delectus eius officiis sunt nulla saepe pariatur! Adipisci similique, aliquam officia.
 
 ![Donsol](assets/development_banner.jpg)
