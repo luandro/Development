@@ -34,9 +34,9 @@ Not interfere[*](#experiment) with local economy or politics.
 
 ###Donsol, Philippines
 
-> December 2012 - February 2013
-
 ![Donsol Banner](assets/development_donsol_banner.jpg)
+
+> December 2012 - February 2013
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium natus esse labore consequuntur distinctio ducimus est quam consequatur accusantium, minima architecto saepe quidem impedit cumque quas blanditiis assumenda illo quibusdam!Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus a dolor, enim illo vel porro animi. Rerum iusto dolores at totam velit porro? Sunt blanditiis hic est voluptatem quod ullam.
 
