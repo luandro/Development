@@ -17,7 +17,7 @@
 
 This project was born from a growing disbelief in the political and economic structure of contemporary _civilized societies_. Ideas from economic anthropologists [Manfred Max-Neef](http://en.wikipedia.org/wiki/Manfred_Max_Neef) and [David Graeber](http://en.wikipedia.org/wiki/David_Graeber) led me to believe that alternatives that have sustained for a much longer period than our own system still exist in rural areas around the globe. 
 
-On December 2012 I began to search for communities that still had surviving forms of economic and political structures that were clearly an alternative to the _status quo_. Once in contact with these, it became impossible to oversee the affects that states and global markets have had in an unconscious attempt to _monoculturize_ these societies. Finally this is an attempt to document these cultures during long intervals of time, as a way to critically analyze the affects of _development_ on quality of life of the people; and also to keep detailed descriptions of alternative methods of organization to serve as inspiration for economic and political reforms.
+On December 2012 I began to search for communities that still had surviving forms of economic and political practices that were clearly distinct from the _status quo_. Once in contact with them, it became impossible to oversee the affects that states and global markets have had in an unconscious attempt to homogenize these cultures. Finally this is an attempt to document these cultures during long intervals of time, as a way to critically analyze the affects of _development_ on quality of life of the people; and also to keep detailed descriptions of alternative methods of organization to serve as inspiration for economic and political reforms.
 
 
 #Methodology
