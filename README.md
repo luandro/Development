@@ -8,15 +8,15 @@
 	- [Buscalan, Phillipines](#buscalan-philippines)
 	- [Moinho, Brazil](#moinho-brazil)
 - [Resources](#resources)
-	- [Books](#books)
-	- [Videos](#videos)
 - [Contributing](#contributing)	
 - [License](#license)
 
 
 #About
 
-This project was born from a growing desbelief in the political and economic structure of contemporary civilized societies. Ideas from economic anthropologists [Manfred Max-Neef](http://en.wikipedia.org/wiki/Manfred_Max_Neef) and [David Graeber](http://en.wikipedia.org/wiki/David_Graeber) led me to believe that alternatives that have sustained for a much longer period of time than our own system still exist in rural areas around the globe.
+This project was born from a growing desbelief in the political and economic structure of contemporary civilized societies. Ideas from economic anthropologists [Manfred Max-Neef](http://en.wikipedia.org/wiki/Manfred_Max_Neef) and [David Graeber](http://en.wikipedia.org/wiki/David_Graeber) led me to believe that alternatives that have sustained for a much longer period than our own system still exist in rural areas around the globe. Once in contact with such, it's impossible to neglect the affects of states and global markets in a atempt to monoculturize these socities.
+
+On December 2012 I began to search for communities that still had surviving forms of economic and political structures that were clearly an alternative to the _status quo_.
 
 #Methodology
 
@@ -64,12 +64,9 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nemo eligendi dolorum 
 
 #Resources
 
-###Books
-- Graeber, David (2009). [Debt: The First 5000 Years](https://libcom.org/files/__Debt__The_First_5_000_Years.pdf)
+- Graeber, David (2009). [Debt: The First 5000 Years](http://theanarchistlibrary.org/library/david-graeber-debt-the-first-five-thousand-years)
 - Max Neef, Manfred A (1992). [From the Outside Looking In: Experiences in Barefoot Economics](https://web.archive.org/web/20121021020841/http://www.max-neef.cl/download/Max_Neef_From_the_outside_looking_in.pdf)
-
-###Videos
-I've been curating a [video playlist](https://www.youtube.com/playlist?list=PLJlVvky-wBN_l5zyWKEi0y6MjNIk0s3Nn) on the topic of economics.
+- [Youtube playlist](https://www.youtube.com/playlist?list=PLJlVvky-wBN_l5zyWKEi0y6MjNIk0s3Nn) on the topic of economics.
 
 #Contributing
 
