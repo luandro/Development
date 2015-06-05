@@ -4,8 +4,8 @@
 - [About](#about)
 - [Methodology](#methodology)
 - [Chapters](#chapters)
-	- [Donsol, Phillipines](#donsol-philippines)
-	- [Buscalan, Phillipines](#buscalan-philippines)
+	- [Donsol, Philippines](#donsol-philippines)
+	- [Buscalan, Philippines](#buscalan-philippines)
 	- [Moinho, Brazil](#moinho-brazil)
 - [Experiment](#experiment)	
 - [Resources](#resources)
@@ -15,9 +15,10 @@
 
 #About
 
-This project was born from a growing desbelief in the political and economic structure of contemporary _civilized societies_. Ideas from economic anthropologists [Manfred Max-Neef](http://en.wikipedia.org/wiki/Manfred_Max_Neef) and [David Graeber](http://en.wikipedia.org/wiki/David_Graeber) led me to believe that alternatives that have sustained for a much longer period than our own system still exist in rural areas around the globe. Once in contact with such, it's impossible to neglect the affects of states and global markets in a atempt to monoculturize these socities. Finally this is an atempt to document these cultures during intervals os time, to critically analyze the affects of _development_ on quality of life of the people, and also to keep registered their methods of organization to serve as inspiration for economic and political reforms whithin our _civilized societies_.
+This project was born from a growing disbelief in the political and economic structure of contemporary _civilized societies_. Ideas from economic anthropologists [Manfred Max-Neef](http://en.wikipedia.org/wiki/Manfred_Max_Neef) and [David Graeber](http://en.wikipedia.org/wiki/David_Graeber) led me to believe that alternatives that have sustained for a much longer period than our own system still exist in rural areas around the globe. 
 
-On December 2012 I began to search for communities that still had surviving forms of economic and political structures that were clearly an alternative to the _status quo_.
+On December 2012 I began to search for communities that still had surviving forms of economic and political structures that were clearly an alternative to the _status quo_. Once in contact with these, it became impossible to oversee the affects that states and global markets have had in an unconscious attempt to _monoculturize_ these societies. Finally this is an attempt to document these cultures during long intervals of time, as a way to critically analyze the affects of _development_ on quality of life of the people; and also to keep detailed descriptions of alternative methods of organization to serve as inspiration for economic and political reforms.
+
 
 #Methodology
 
@@ -66,7 +67,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nemo eligendi dolorum 
 
 #Experiment
 
-No matter where, mobile devices have become ubiquitous, even without a network to support their use. The experiment will attempt to create [mesh networks](http://en.wikipedia.org/wiki/Mesh_networking) and provide digital tools as means to maintain and strenghten the existing forms of [gift economies](http://en.wikipedia.org/wiki/Gift_economy) or [consensus democracies](http://en.wikipedia.org/wiki/Consensus_democracy).
+No matter where, mobile devices have become ubiquitous, even without a network to support their use. The experiment will attempt to create [mesh networks](http://en.wikipedia.org/wiki/Mesh_networking) and provide digital tools as means to maintain and strengthen the existing forms of [gift economies](http://en.wikipedia.org/wiki/Gift_economy) or [consensus democracies](http://en.wikipedia.org/wiki/Consensus_democracy).
 
 #Resources
 
