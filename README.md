@@ -15,12 +15,17 @@
 
 #About
 
-This project was born from a growing disbelief in the political and economic structure of contemporary _civilized societies_. Ideas from economic anthropologists [Manfred Max-Neef](http://en.wikipedia.org/wiki/Manfred_Max_Neef) and [David Graeber](http://en.wikipedia.org/wiki/David_Graeber) led me to believe that alternatives that have sustained for a much longer period than our own system still exist in rural areas around the globe. 
+This project was born from a growing disbelief in the political and economic structure of contemporary _civilized societies_. Ideas from economic anthropologists [Manfred Max-Neef](http://en.wikipedia.org/wiki/Manfred_Max_Neef) and [David Graeber](http://en.wikipedia.org/wiki/David_Graeber) led me to consider that alternatives that have sustained for a much longer period than our own system still exist in isolated rural areas around the globe. 
 
-On December 2012 I began to search for communities that still had surviving forms of economic and political practices that were clearly distinct from the _status quo_. Once in contact with them, it became impossible to oversee the affects that states and global markets have had in an unconscious attempt to homogenize these cultures. Finally this is an attempt to document these cultures during long intervals of time, as a way to critically analyze the affects of _development_ on quality of life of the people; and also to keep detailed descriptions of alternative methods of organization to serve as inspiration for economic and political reforms.
+On December 2012 I began to search for communities that still had surviving forms of economic and political practices that were clearly distinct from the _status quo_. Once in contact with them, it became impossible to oversee the affects that states and global markets have had in an unconscious attempt to homogenize these cultures. 
+
+Finally this is an endeavor to document these cultures during long intervals of time, as a way to critically analyze the affects of _development_ on quality of life of the people; and also to keep detailed descriptions of alternative methods of organization to serve as inspiration for economic and political reforms.
 
 
 #Methodology
+
+Once I began seeking for isolated communities that had potential for surviving distinct economic and political practices, an outline for a method for actually finding, and most importantly for interacting, with them started to configure itself. As this project is still alive and still gaining traction, this method is due to evolve along side the research.
+
 
 Depend as little as possible on financial exchanges. 
 Not interfere[*](#experiment) with local economy or politics.
@@ -31,9 +36,7 @@ Not interfere[*](#experiment) with local economy or politics.
 
 > December 2012 - February 2013
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore perferendis iure molestiae quisquam repellendus architecto, minus doloremque, quaerat aliquam, delectus eius officiis sunt nulla saepe pariatur! Adipisci similique, aliquam officia.
-
-![Donsol](assets/development_banner.jpg)
+![Donsol Banner](assets/development_donsol_banner.jpg)
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium natus esse labore consequuntur distinctio ducimus est quam consequatur accusantium, minima architecto saepe quidem impedit cumque quas blanditiis assumenda illo quibusdam!Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus a dolor, enim illo vel porro animi. Rerum iusto dolores at totam velit porro? Sunt blanditiis hic est voluptatem quod ullam.
 
