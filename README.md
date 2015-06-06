@@ -17,14 +17,14 @@
 
 This project was born from a growing disbelief in the political and economic structure of contemporary _civilized societies_. Ideas from economic anthropologists [Manfred Max-Neef](http://en.wikipedia.org/wiki/Manfred_Max_Neef) and [David Graeber](http://en.wikipedia.org/wiki/David_Graeber) led me to consider that alternatives that have sustained for a much longer period than our own system still exist in isolated rural areas around the globe. 
 
-On December 2012 I began to search for communities that still had surviving forms of economic and political practices that were clearly distinct from the _status quo_. Once in contact with them, it became impossible to oversee the affects that states and global markets have had in an unconscious attempt to homogenize these cultures. 
+On December 2012 I began to search for communities that still had surviving forms of economic and political practices that were clearly distinct from the _status quo_. Once in contact with them, it became impossible to oversee the affects that states and global markets have had in an automated attempt to homogenize these cultures. 
 
-Finally this is an endeavor to document these cultures during long intervals of time, as a way to critically analyze the affects of _development_ on quality of life of the people; and also to keep detailed descriptions of alternative methods of organization to serve as inspiration for economic and political reforms.
+Finally this is an endeavor to document these cultures during long intervals of time, as a way to critically analyze the affects of _development_ on quality of life of people; and also to keep detailed descriptions of alternative methods of organization to serve as inspiration for communities who may seek political and economic independence in times where decentralization has become critical.
 
 
 #Methodology
 
-Once I began seeking for isolated communities that had potential for surviving distinct economic and political practices, an outline for a method for actually finding, and most importantly for interacting, with them started to configure itself. As this project is still alive and still gaining traction, this method is due to evolve along side the research.
+Once I began seeking for isolated communities that had potential for surviving distinct economic and political practices, an outline for a method for actually finding, and most importantly for interacting, with them started to model itself. As this project is still alive and still gaining traction, this method is due to evolve along side the research.
 
 
 Depend as little as possible on financial exchanges. 
