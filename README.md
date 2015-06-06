@@ -2,7 +2,6 @@
 
 ##Index
 
-[![Join the chat at https://gitter.im/luandro/Development](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/luandro/Development?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 - [About](#about)
 - [Methodology](#methodology)
 - [Chapters](#chapters)
@@ -82,7 +81,9 @@ Open-source development of the platform is live at the [TribO repository](https:
 
 #Contributing
 
-Any feedback is very welcome.
+[![Join the chat at https://gitter.im/luandro/Development](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/luandro/Development?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
+Any feedback is very welcome, please enter the chat room to join the ongoing discussion.
 
 
 #License
