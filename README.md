@@ -44,13 +44,11 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nemo eligendi dolorum 
 
 ###Buscalan, Philippines
 
+![Buscalan Banner](assets/development_buscalan_banner.jpg)
+
 > February 2013 - March 2013
 >
 > June 2013 - July 2013
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore perferendis iure molestiae quisquam repellendus architecto, minus doloremque, quaerat aliquam, delectus eius officiis sunt nulla saepe pariatur! Adipisci similique, aliquam officia.
-
-![Donsol](assets/development_banner.jpg)
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium natus esse labore consequuntur distinctio ducimus est quam consequatur accusantium, minima architecto saepe quidem impedit cumque quas blanditiis assumenda illo quibusdam!Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus a dolor, enim illo vel porro animi. Rerum iusto dolores at totam velit porro? Sunt blanditiis hic est voluptatem quod ullam.
 
@@ -72,7 +70,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nemo eligendi dolorum 
 
 No matter where, mobile devices have become ubiquitous, even without a network to support their use. The experiment will attempt to create [mesh networks](http://en.wikipedia.org/wiki/Mesh_networking) and provide digital tools as means to maintain and strengthen the existing forms of [gift economies](http://en.wikipedia.org/wiki/Gift_economy) or [consensus democracies](http://en.wikipedia.org/wiki/Consensus_democracy).
 
-#Resources
+#References
 
 - Graeber, David (2009). [Debt: The First 5000 Years](http://theanarchistlibrary.org/library/david-graeber-debt-the-first-five-thousand-years)
 - Max Neef, Manfred A (1992). [From the Outside Looking In: Experiences in Barefoot Economics](https://web.archive.org/web/20121021020841/http://www.max-neef.cl/download/Max_Neef_From_the_outside_looking_in.pdf)
