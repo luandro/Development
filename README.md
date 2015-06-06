@@ -1,6 +1,8 @@
 ![Development Logo](assets/development_git_logo.jpg)
 
 ##Index
+
+[![Join the chat at https://gitter.im/luandro/Development](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/luandro/Development?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 - [About](#about)
 - [Methodology](#methodology)
 - [Chapters](#chapters)
