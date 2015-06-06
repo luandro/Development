@@ -68,7 +68,9 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nemo eligendi dolorum 
 
 #Experiment
 
-No matter where, mobile devices have become ubiquitous, even without a network to support their use. The experiment will attempt to create [mesh networks](http://en.wikipedia.org/wiki/Mesh_networking) and provide digital tools as means to maintain and strengthen the existing forms of [gift economies](http://en.wikipedia.org/wiki/Gift_economy) or [consensus democracies](http://en.wikipedia.org/wiki/Consensus_democracy).
+No matter where, mobile devices have become ubiquitous, even without a network to support their use. The experiment will attempt to create an easy to deploy [mesh network](http://en.wikipedia.org/wiki/Mesh_networking) platform and provide digital tools as means to maintain and strengthen the existing forms of [gift economies](http://en.wikipedia.org/wiki/Gift_economy) and [consensus democracies](http://en.wikipedia.org/wiki/Consensus_democracy) within communities.
+
+Open-source development of the platform is live at the [TribO repository](https://github.com/luandro/TribO).
 
 #References
 
