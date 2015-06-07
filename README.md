@@ -5,7 +5,6 @@
 - [About](#about)
 - [Methodology](#methodology)
 - [Chapters](#chapters)
-	- [Donsol, Philippines](#donsol-philippines)
 	- [Buscalan, Philippines](#buscalan-philippines)
 	- [Moinho, Brazil](#moinho-brazil)
 - [Experiment](#experiment)	
@@ -33,23 +32,11 @@ Not interfere[*](#experiment) with local economy or politics.
 
 #Chapters
 
-###Donsol, Philippines
-
-![Donsol Banner](assets/development_donsol_banner.jpg)
-
-> December 2012 - February 2013
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium natus esse labore consequuntur distinctio ducimus est quam consequatur accusantium, minima architecto saepe quidem impedit cumque quas blanditiis assumenda illo quibusdam!Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus a dolor, enim illo vel porro animi. Rerum iusto dolores at totam velit porro? Sunt blanditiis hic est voluptatem quod ullam.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nemo eligendi dolorum et. Necessitatibus dolorem accusamus veritatis delectus repellat, cupiditate architecto atque facilis nesciunt ut. Iste eveniet, maxime cum pariatur deleniti.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat, praesentium quibusdam! Quibusdam, nobis! Voluptatibus, quam autem vel sequi officia impedit, modi consequuntur soluta reprehenderit similique omnis eius quod sed consectetur?
-
 ###Buscalan, Philippines
 
 ![Buscalan Banner](assets/development_buscalan_banner.jpg)
 
-> February 2013 - March 2013
->
-> June 2013 - July 2013
+> First semester 2013
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium natus esse labore consequuntur distinctio ducimus est quam consequatur accusantium, minima architecto saepe quidem impedit cumque quas blanditiis assumenda illo quibusdam!Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus a dolor, enim illo vel porro animi. Rerum iusto dolores at totam velit porro? Sunt blanditiis hic est voluptatem quod ullam.
 
